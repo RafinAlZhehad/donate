@@ -1,0 +1,248 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.top-banner{
+ background-image: url(images/donation12.png);
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 800px;
+ background-size: 100%;
+
+}
+.help{
+    text-align: center;
+    color: white;
+    padding: 200px;
+}
+#bannerh1{
+    font-size: 70px;
+}
+#bannerp{
+    font-size:20px ;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color:tomato ;
+    padding: 10px;
+    border-radius: 5%;
+}
+.two{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+    
+}
+.today{
+    text-align: center;
+    
+}
+.today h1{
+    font-size: 50px;
+    margin-top: 100px;
+}
+.today p{
+    color: cadetblue;
+    font-size: 20px;
+}
+.second-amount{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 50px;
+   
+}
+.second-amount div{
+    width: 150px;
+    height: 150px;
+    background-image: linear-gradient(white,gray);
+    padding: 10px 40px;
+    border-radius: 5%;
+    margin: 10px;
+
+}
+h2{
+    margin-top: 50px;
+}
+#bdt-200{
+    border: 3px solid tomato;
+    color: tomato;
+    background-color: #ffcccc;
+}
+h4{
+    text-align: center;
+    color: gray;
+    display:inline-flex;
+    border-bottom: 1px solid rgb(209, 209, 209);
+    padding: 10px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.three{
+    background-color: white;
+    width: 100%;
+    height: 600px;
+}
+.plan{
+    text-align: center;
+    
+}
+.plan h1{
+    font-size: 50px;
+    margin-top: 100px;
+}
+.plan h4{
+    color: cadetblue;
+    font-size: 20px;
+}
+.flex{
+
+display: flex;
+box-sizing:content-box;
+text-align: center;
+height: 350px;
+margin: 100px;
+
+
+}
+.flex h2{
+    font-size: 20px;
+
+}
+.flex p{
+    color: gray;
+}
+.sub1{
+    padding-top: 10px;
+    background-color: #c6f0f0;
+    margin: 10px;
+    border-radius: 5%;
+}
+.sub2{
+    padding-top: 10px;
+    background-color: #faded8;
+    margin: 10px;
+    border-radius: 5%;
+
+}
+.sub3{
+    padding-top: 10px;
+    background-color: #fcf3d8;
+    margin: 10px;
+    border-radius: 5%;
+}
+.bonus1{
+    display: flex;
+    margin-top: 150px;
+    height: 500px;
+    width: 100%;
+}
+.w1{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.w1 img{
+
+    width: 90%;
+    
+    border-radius: 5%;
+    left: 20%;
+}
+.w1 h1{
+
+    font-size: 40px;
+}
+.bonus2{
+    display: flex;
+    margin-top: 150px;
+    height: 500px;
+    width: 100%;
+}
+.w2{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.w2 img{
+
+    width: 90%;
+    
+    border-radius: 5%;
+    left: 20%;
+}
+.w2 h1{
+
+    font-size: 40px;
+}
+.button1{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color:tomato ;
+    padding: 10px;
+    border-radius: 5%;
+}
+
+.bonus-2{
+    text-align: center;
+}
+.bonus-2 h1{
+    font-size: 50px; 
+    margin-top: 300px;
+}
+.bonus-2 p{
+    color: gray;
+    text-align: center;
+}
+.form{
+    width: 800px;
+    height: 150px;
+    background-color: #fcf3d8;
+    margin-left: 25%;
+    margin-top: 50px;
+    
+    
+    
+}
+#email {
+    font-size: larger;
+    margin-top: 30px;
+    border-radius: 10%;
+    background-color:whitesmoke;
+    height: 50px;
+    width: 330px;
+}
+#subscribe{
+    font-size: larger;
+    margin-top: 30px;
+    border-radius: 10%;
+    background-color:tomato;
+    height: 50px;
+    width: 120px;
+}
+.footer{
+    font-family: Brush Script MT,sans-serif;
+    font-size: larger;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+    
+    text-align: center;
+    padding-top: 30px;
+}
+.footer h1{
+    color: red;
+}
+.footer p{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
